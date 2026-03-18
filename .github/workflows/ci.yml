@@ -5,7 +5,7 @@ on:
   pull_request:
     branches: [master]
 env:
-  NODE_ENV: '21'
+  NODE_ENV: '24'
 jobs:
   build:
     name: Build Application
